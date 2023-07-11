@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es6",
+    "moduleResolution": "node",
+    "strictPropertyInitialization": false,
+    "noImplicitAny": true,
+    "strict": true,
+    "sourceMap": true,
+    "outDir": "dist"
+  },
+  "include": [
+    "src/app.ts"
+  ]
+}

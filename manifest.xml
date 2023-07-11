@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<module>
+    <type>extension</type>
+    <name>RedooCalendar</name>
+    <version>7.2.1</version>
+
+    <label>Flex Calendar</label>
+
+    <dependencies>
+        <vtiger_version>7.*</vtiger_version>
+    </dependencies>
+</module>

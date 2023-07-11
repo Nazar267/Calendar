@@ -1,0 +1,69 @@
+
+
+#left-pane, #right-pane {
+  height: 700px;
+}
+
+.add-new-event {
+  margin-bottom: 11px;
+}
+
+.select2-drop {
+  z-index: 101010101;
+}
+
+.calendar-toolbar {
+  width: 35px;
+  float: right;
+}
+
+.connector-toolbar {
+  width: 35px;
+  float: right;
+}
+
+.connector {
+  margin-bottom: 20px;
+}
+
+.connector-label {
+  font-size: 14px;
+  font-weight:bold;
+
+  width: 99%;
+  padding-bottom:3px;
+  color:#777777;
+  border-bottom:1px solid #ddd;
+  margin-bottom:5px;
+}
+
+.calendar-label {
+  width: 99%;
+
+  input {
+    margin-bottom:-3px;
+
+    width: 18px;
+    height: 18px;
+    font-size: 22px;
+    border-width: 2px;
+    border-radius: 3px;
+
+    margin-right:5px;
+  }
+}
+
+html {
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+hr {
+  width: 100%;
+}
+
+.ConditionCollapseJoins {
+  width: auto;
+  padding-left: 0;
+}
